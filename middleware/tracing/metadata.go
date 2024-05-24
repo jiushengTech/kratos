@@ -5,8 +5,7 @@ import (
 
 	"go.opentelemetry.io/otel/propagation"
 
-	"github.com/go-kratos/kratos/v2"
-	"github.com/go-kratos/kratos/v2/metadata"
+	"github.com/jiushengTech/kratos/v2/metadata"
 )
 
 const serviceHeader = "x-md-service-name"

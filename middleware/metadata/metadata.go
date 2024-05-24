@@ -4,9 +4,9 @@ import (
 	"context"
 	"strings"
 
-	"github.com/go-kratos/kratos/v2/metadata"
-	"github.com/go-kratos/kratos/v2/middleware"
-	"github.com/go-kratos/kratos/v2/transport"
+	"github.com/jiushengTech/kratos/v2/metadata"
+	"github.com/jiushengTech/kratos/v2/middleware"
+	"github.com/jiushengTech/kratos/v2/transport"
 )
 
 // Option is metadata option.

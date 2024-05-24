@@ -10,10 +10,10 @@ import (
 	"github.com/google/uuid"
 
 	"github.com/go-kratos/aegis/subset"
-	"github.com/go-kratos/kratos/v2/internal/endpoint"
-	"github.com/go-kratos/kratos/v2/log"
-	"github.com/go-kratos/kratos/v2/registry"
-	"github.com/go-kratos/kratos/v2/selector"
+	"github.com/jiushengTech/kratos/v2/internal/endpoint"
+	"github.com/jiushengTech/kratos/v2/log"
+	"github.com/jiushengTech/kratos/v2/registry"
+	"github.com/jiushengTech/kratos/v2/selector"
 )
 
 // Target is resolver target
