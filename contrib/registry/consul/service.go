@@ -5,7 +5,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/go-kratos/kratos/v2/registry"
+	"github.com/jiushengTech/kratos/v2/registry"
 )
 
 type serviceSet struct {

@@ -5,7 +5,7 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/go-kratos/kratos/v2/log"
+	"github.com/jiushengTech/kratos/v2/log"
 )
 
 var _ log.Logger = (*Logger)(nil)

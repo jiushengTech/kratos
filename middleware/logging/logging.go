@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-kratos/kratos/v2/errors"
-	"github.com/go-kratos/kratos/v2/log"
-	"github.com/go-kratos/kratos/v2/middleware"
-	"github.com/go-kratos/kratos/v2/transport"
+	"github.com/jiushengTech/kratos/v2/errors"
+	"github.com/jiushengTech/kratos/v2/log"
+	"github.com/jiushengTech/kratos/v2/middleware"
+	"github.com/jiushengTech/kratos/v2/transport"
 )
 
 // Redacter defines how to log an object

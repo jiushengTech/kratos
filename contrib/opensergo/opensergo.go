@@ -17,8 +17,6 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"
 	"google.golang.org/protobuf/reflect/protoregistry"
-
-	"github.com/go-kratos/kratos/v2"
 )
 
 type Option func(*options)

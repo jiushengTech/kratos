@@ -11,10 +11,10 @@ import (
 	"google.golang.org/protobuf/types/known/timestamppb"
 	"google.golang.org/protobuf/types/known/wrapperspb"
 
-	"github.com/go-kratos/kratos/v2/encoding"
-	bdtest "github.com/go-kratos/kratos/v2/internal/testdata/binding"
-	"github.com/go-kratos/kratos/v2/internal/testdata/complex"
-	ectest "github.com/go-kratos/kratos/v2/internal/testdata/encoding"
+	"github.com/jiushengTech/kratos/v2/encoding"
+	bdtest "github.com/jiushengTech/kratos/v2/internal/testdata/binding"
+	"github.com/jiushengTech/kratos/v2/internal/testdata/complex"
+	ectest "github.com/jiushengTech/kratos/v2/internal/testdata/encoding"
 )
 
 type LoginRequest struct {

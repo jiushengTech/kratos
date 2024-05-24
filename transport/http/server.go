@@ -11,12 +11,12 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/go-kratos/kratos/v2/internal/endpoint"
-	"github.com/go-kratos/kratos/v2/internal/host"
-	"github.com/go-kratos/kratos/v2/internal/matcher"
-	"github.com/go-kratos/kratos/v2/log"
-	"github.com/go-kratos/kratos/v2/middleware"
-	"github.com/go-kratos/kratos/v2/transport"
+	"github.com/jiushengTech/kratos/v2/internal/endpoint"
+	"github.com/jiushengTech/kratos/v2/internal/host"
+	"github.com/jiushengTech/kratos/v2/internal/matcher"
+	"github.com/jiushengTech/kratos/v2/log"
+	"github.com/jiushengTech/kratos/v2/middleware"
+	"github.com/jiushengTech/kratos/v2/transport"
 )
 
 var (

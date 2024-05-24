@@ -1,4 +1,4 @@
-module github.com/go-kratos/kratos/v2
+module github.com/jiushengTech/kratos/v2
 
 go 1.20
 

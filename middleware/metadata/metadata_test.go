@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-kratos/kratos/v2/metadata"
-	"github.com/go-kratos/kratos/v2/transport"
+	"github.com/jiushengTech/kratos/v2/metadata"
+	"github.com/jiushengTech/kratos/v2/transport"
 )
 
 type headerCarrier http.Header
